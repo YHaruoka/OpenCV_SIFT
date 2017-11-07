@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\visualstudioproject\opencv\siftprogram\siftprogram\source.cpp(43): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+d:\visualstudioproject\opencv\siftprogram\siftprogram\source.cpp(47): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  SIFTProgram.vcxproj -> D:\VisualStudioProject\OpenCV\SIFTProgram\x64\Debug\SIFTProgram.exe
+  SIFTProgram.vcxproj -> D:\VisualStudioProject\OpenCV\SIFTProgram\x64\Debug\SIFTProgram.pdb (Full PDB)

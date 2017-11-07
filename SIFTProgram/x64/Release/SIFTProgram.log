@@ -1,0 +1,8 @@
+﻿  Source.cpp
+Source.cpp(43): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+Source.cpp(47): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  コード生成しています。
+  All 144 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  コード生成が終了しました。
+  SIFTProgram.vcxproj -> D:\VisualStudioProject\OpenCV\SIFTProgram\x64\Release\SIFTProgram.exe
+  SIFTProgram.vcxproj -> D:\VisualStudioProject\OpenCV\SIFTProgram\x64\Release\SIFTProgram.pdb (Full PDB)
